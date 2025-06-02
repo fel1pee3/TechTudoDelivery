@@ -19,7 +19,8 @@ src/
 │   └── PedidoController.java
 ├── Model/
 │   └── PedidoModel.java
-└── View/
+├── View/
+|   └── PedidoView.java
 ├── PedidoView\.java
 └── TechTudoDelivery.java (classe principal)
 
